@@ -1,0 +1,1 @@
+{"Orb": {"img_name": "img/orb.png", "frames": 4, "len": 5}}
